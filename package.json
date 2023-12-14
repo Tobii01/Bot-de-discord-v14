@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.14.1",
+    "i": "^0.3.7",
+    "npm": "^10.2.5"
+  },
+  "name": "bot-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
